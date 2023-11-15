@@ -29,7 +29,8 @@ The `AccountCreation` component provides a form for creating user accounts. It i
 - Tailwind CSS
 
 ## Usage
-- Ensure the server is running.
+- Move to management-dashboard directory
+  ``` cd management-dashboard ```
 
 - Install dependencies:
   ```npm install```
