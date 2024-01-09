@@ -1,5 +1,6 @@
 # User Management Dashboard
 
+## Demo
 https://github.com/shailesharya/Greenie_Assignment/assets/41483772/d5786dd2-449f-46db-bb31-dc47a43e35ad
 
 Welcome to the User Management Dashboard! This React application allows you to view and manage user details. It consists of two main components - `UserDetails` and `AccountCreation`. Below, you'll find an overview of each component and instructions for running the project.
